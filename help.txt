@@ -16,3 +16,9 @@ Azure - CI/CD
 https://nicwortel.nl/blog/2022/05/27/continuous-deployment-to-kubernetes-with-github-actions
 
 
+Good
+https://www.cloudsigma.com/deploy-a-php-application-on-a-kubernetes-cluster-with-ubuntu-18-04/
+
+
+
+

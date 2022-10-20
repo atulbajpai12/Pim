@@ -1,16 +1,18 @@
 https://github.com/marketplace/actions/deploy-to-kubernetes-cluster
 https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions
 
+https://www.fu-solutions.de/en/2021/12/ulli/administration-en/centos-rhel-changing-the-php-version/
 
 
-[ERROR] The following errors were encountered during installation
+http://rpmfind.net/linux/rpm2html/search.php?query=php
 
 
- * Couldn't establish connection to MySQL: An exception occurred in driver: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
- 
- 
- 
- -------------------
- 
- php.INFO: User Deprecated: Method "Symfony\Component\HttpKernel\KernelInterface::getCacheDir()" might add "string" as a native return type declaration in the future. Do the same in implementation "Pimcore\Bundle\InstallBundle\InstallerKernel" now to avoid errors or add an explicit @return annotation to suppress this message. {"exception":"[object] (ErrorException(code: 0): User Deprecated: Method \"Symfony\\Component\\HttpKernel\\KernelInterface::getCacheDir()\" might add \"string\" as a native return type declaration in the future. Do the same in implementation \"Pimcore\\Bundle\\InstallBundle\\InstallerKernel\" now to avoid errors or add an explicit @return annotation to suppress this message. at E:\\pimBase\\htdocs\\oct\\vendor\\symfony\\error-handler\\DebugClassLoader.php:326)"} [] console.DEBUG: Command "pimcore:install" exited with code "2" {"command":"pimcore:install","code":2} []
-[2022-10-16T19:39:24.781006+02:00] console.DEBUG: Command "pimcore:install" exited with code "2" {"command":"pimcore:install","code":2} []
+https://www.linuxtechi.com/install-php-7-centos-7-rhel-7-server/
+
+
+
+Azure - CI/CD
+
+https://nicwortel.nl/blog/2022/05/27/continuous-deployment-to-kubernetes-with-github-actions
+
+

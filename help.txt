@@ -19,6 +19,8 @@ https://nicwortel.nl/blog/2022/05/27/continuous-deployment-to-kubernetes-with-gi
 Good
 https://www.cloudsigma.com/deploy-a-php-application-on-a-kubernetes-cluster-with-ubuntu-18-04/
 
+php upgarde in RHEL - https://access.redhat.com/solutions/648753
+
 
 
 

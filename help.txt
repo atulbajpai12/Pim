@@ -20,6 +20,7 @@ Good
 https://www.cloudsigma.com/deploy-a-php-application-on-a-kubernetes-cluster-with-ubuntu-18-04/
 
 php upgarde in RHEL - https://access.redhat.com/solutions/648753
+https://morioh.com/p/7d2adf3c31ad
 
 
 

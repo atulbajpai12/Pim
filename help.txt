@@ -25,5 +25,6 @@ https://morioh.com/p/7d2adf3c31ad
 Matter about Mariadb to pgsql migration----------
 https://stackoverflow.com/questions/10640821/how-do-i-enable-php-to-work-with-postgresql
 https://hevodata.com/learn/mariadb-to-postgresql/#t9
+https://kb.objectrocket.com/redis/how-to-use-postgresql-pdo-driver-with-php-part-1-590
 
 

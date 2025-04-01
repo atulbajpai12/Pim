@@ -3133,9 +3133,7 @@ sub process_api_request {
 		);
 
 		if (!is_set($argument_hash, 'tare_weight')) {
-			if ( is_yes($argument_hash, 'tare_weight_enforce') and
-			    !is_yes($argument_hash, "weightless_command")
-			) {
+			if ( is_yes($argument_hash, 'tare_weight_enforce') and !is_yes($argument_hash, "weightless_command") ) {
 				print_error_ident("Tare weight was not set for floor client\n", $argument_hash->{'event_measuringpoint_user_id'});
 				$result{'tare_weight'} = "missing";
 			}
